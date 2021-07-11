@@ -1,0 +1,62 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Đồ án.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(107,37): warning C4305: 'argument': truncation from 'double' to 'T'
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(107,37): warning C4305:         with
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(107,37): warning C4305:         [
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(107,37): warning C4305:             T=float
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(107,37): warning C4305:         ]
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(141,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(147,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(153,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(159,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(185,38): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(185,38): warning C4244:         with
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(185,38): warning C4244:         [
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(185,38): warning C4244:             T=float
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(185,38): warning C4244:         ]
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(186,38): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(186,38): warning C4244:         with
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(186,38): warning C4244:         [
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(186,38): warning C4244:             T=float
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(186,38): warning C4244:         ]
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(190,39): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(190,39): warning C4244:         with
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(190,39): warning C4244:         [
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(190,39): warning C4244:             T=float
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(190,39): warning C4244:         ]
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(191,39): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(191,39): warning C4244:         with
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(191,39): warning C4244:         [
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(191,39): warning C4244:             T=float
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(191,39): warning C4244:         ]
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(195,39): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(195,39): warning C4244:         with
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(195,39): warning C4244:         [
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(195,39): warning C4244:             T=float
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(195,39): warning C4244:         ]
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(196,39): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(196,39): warning C4244:         with
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(196,39): warning C4244:         [
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(196,39): warning C4244:             T=float
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(196,39): warning C4244:         ]
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(200,39): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(200,39): warning C4244:         with
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(200,39): warning C4244:         [
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(200,39): warning C4244:             T=float
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(200,39): warning C4244:         ]
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(201,39): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(201,39): warning C4244:         with
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(201,39): warning C4244:         [
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(201,39): warning C4244:             T=float
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(201,39): warning C4244:         ]
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(205,39): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(205,39): warning C4244:         with
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(205,39): warning C4244:         [
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(205,39): warning C4244:             T=float
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(205,39): warning C4244:         ]
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(206,39): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(206,39): warning C4244:         with
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(206,39): warning C4244:         [
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(206,39): warning C4244:             T=float
+D:\Đồ án game\18120292\18120292\Source\PONG\Đồ án\Source.cpp(206,39): warning C4244:         ]
+  Đồ án.vcxproj -> D:\Đồ án game\18120292\18120292\Source\PONG\x64\Debug\18120292.exe

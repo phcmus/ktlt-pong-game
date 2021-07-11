@@ -1,0 +1,8 @@
+﻿  Ball.cpp
+  GameManager.cpp
+D:\Đồ án\Source\18120278_18120280\GameManager.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Paddle.cpp
+  Source.cpp
+  Generating Code...
+D:\Đồ án\Source\18120278_18120280\GameManager.cpp(41,8): warning C4101: 'destCoord': unreferenced local variable
+  18120278_18120280.vcxproj -> D:\Đồ án\Source\x64\Debug\18120278_18120280.exe
